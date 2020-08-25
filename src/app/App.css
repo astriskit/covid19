@@ -1,0 +1,13 @@
+.app {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+@media (max-width: 400px) {
+  .app {
+    min-height: unset;
+  }
+  .app .login-section {
+    margin-top: 50px;
+  }
+}
