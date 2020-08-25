@@ -63,7 +63,7 @@ const LoginSignup = ({ onLogin, loading, onSignup }) => {
   return (
     <Card
       className="login-section"
-      title="Please login"
+      title="Please login or signup"
       extra={[
         <Button
           onClick={handleSignup}
