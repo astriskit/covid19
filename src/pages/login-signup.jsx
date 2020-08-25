@@ -95,7 +95,7 @@ const LoginSignup = ({ onLogin, loading, onSignup }) => {
         data-cy="password"
         onChange={handlePassword}
         addonBefore="Password"
-        style={{ marginBottom: "0.4rem" }}
+        style={{ marginBottom: "1.4rem" }}
       />
       <Button
         data-cy="login"
