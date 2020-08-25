@@ -88,10 +88,6 @@ const HomeView = ({ data = {}, loading = false, onRefresh, onLogout }) => {
     //eslint-disable-next-line
   }, []);
 
-  useEffect(() => {
-    console.info(data, loading);
-  }, [data, loading]);
-
   const onLogoutFail = (err) => {
     message.error(err.message || "Logout failed");
   };
