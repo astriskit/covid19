@@ -10,7 +10,7 @@ A spa, reactjs based for visualising covid-19 data in India
 
 ## Todo-list
 
-- [ ] Setup github-pages for the production build
+- [x] Setup github-pages for the production build
 - [x] Follow TDD
 - [x] Add responsive-ness
 
