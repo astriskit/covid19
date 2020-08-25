@@ -4,16 +4,15 @@ A spa, reactjs based for visualising covid-19 data in India
 
 ## User-stories
 
-- [ ] A user can create an account.
-- [ ] A user can login.
-- [ ] Covid-19 dashboard for authenticated user.
+- [x] A user can create an account.
+- [x] A user can login.
+- [x] Covid-19 dashboard for authenticated user.
 
 ## Todo-list
 
 - [ ] Setup github-pages for the production build
-- [ ] Setup CI
-- [ ] Follow TDD
-- [ ] Add responsive-ness
+- [x] Follow TDD
+- [x] Add responsive-ness
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
