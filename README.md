@@ -1,6 +1,6 @@
-# covid-app
+# Introduction 
 
-A spa, reactjs based for visualising covid-19 data in India
+A spa, reactjs based for visualising covid-19 data in India. Live at [here](https://astriskit.github.io/covid19).
 
 ## User-stories
 
